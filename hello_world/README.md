@@ -10,3 +10,12 @@ make test
 ./hello.py
 ```
 
+#### Run Linters
+
+```
+python -m flake8 hello.py
+```
+
+```
+python -m pylint hello.py
+```
