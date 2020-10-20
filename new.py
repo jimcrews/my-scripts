@@ -46,7 +46,8 @@ def get_args() -> Args:
     parser.add_argument('-e',
                         '--email',
                         type=str,
-                        default=defaults.get('email', f'{username}@{hostname}'),
+                        default=defaults.get(
+                            'email', f'{username}@{hostname}'),
                         help='Email for docstring')
 
     parser.add_argument('-p',
@@ -83,7 +84,11 @@ def main() -> None:
             sys.exit('Will not overwrite. Bye!')
 
     print(body(args), file=open(program, 'wt'), end='')
-    subprocess.run(['chmod', '+x', program])
+    try:
+        subprocess.run(['chmod', '+x', program])
+    except:
+        print('There was a problem running chmod +x')
+
     print(f'Done, see new script "{program}."')
 
 
