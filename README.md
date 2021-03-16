@@ -1,12 +1,10 @@
 | Filename                                                                                     | Description                            |
 | -------------------------------------------------------------------------------------------- | -------------------------------------- |
-| [Python Exercises](https://github.com/jimcrews/my-scripts/blob/master/PythonExercises.py)    | Learn Python by completing exercises   |
-| [Simple Boilerplate](https://github.com/jimcrews/my-scripts/tree/master/hello_world)         | Best Practice style, tests, Make       |
-| [Create Boilerplate](https://github.com/jimcrews/my-scripts/blob/master/new.py)              | Create new with: ./new.py my_script.py |
-| [Generated Boilerplate](https://github.com/jimcrews/my-scripts/blob/master/new_generated.py) | Generated with ./new.py                |
-| [Picnic](https://github.com/jimcrews/my-scripts/tree/master/02_picnic)                       | Accept multiple positional arguments.  |
-| [Jump the Five](https://github.com/jimcrews/my-scripts/tree/master/04_jump_the_five)         | Use a Dictionary of encoded values     |
-| [Howler](https://github.com/jimcrews/my-scripts/tree/master/05_howler)                       | Read and Write files                   |
+| [Import Excel Data](https://github.com/jimcrews/my-scripts/blob/master/book1.ps1)            | ImportExcel                            |
+| [Import using SqlCommand Class](https://github.com/jimcrews/my-scripts/blob/master/SqlClient.ps1)         | SqlCommand Class       |
+| [Import using SqlCmd](https://github.com/jimcrews/my-scripts/blob/master/SqlCmd.ps1)              | Invoke-Sqlcmd |
+| [Import using CSharp Script](https://github.com/jimcrews/my-scripts/blob/master/Pull_Todos.csx) | dotnet script Pull_Todos.csx                |
+
 
 <br />
 
