@@ -1,0 +1,21 @@
+﻿$SQLServer = "SQL_SERVER_NAME"
+$db3 = "DATABASE_NAME"
+$qcd = "
+
+BEGIN TRAN;
+
+DECLARE @TWO_WEEKS_AGO DATETIME;
+SET @TWO_WEEKS_AGO = (SELECT MAX([TIME]) FROM DATE_TABLE WHERE [TIME] < DATEADD(day, -14, GETDATE()))
+
+IF @TWO_WEEKS_AGO IS NOT NULL
+BEGIN
+
+SELECT GETDATE() AS TimeOfQuery
+
+END
+
+COMMIT TRAN;
+
+"
+ 
+Invoke-Sqlcmd -ServerInstance $SQLServer -Database $db3 -Query $qcd -Verbose

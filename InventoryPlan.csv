@@ -1,0 +1,11 @@
+#Location,Item Name,Bucket Start,Beg On Hand,End On Hand,Dependent Demand,Independent Demand,Released,Unreleased,Start Safety Stock,End Safety Stock
+Australia,SKU_123,22/04/2023 0:00,0,0,672,,,672,0,0
+Australia,SKU_123,22/04/1930 0:00,0,0,448,,,448,0,0
+Australia,SKU_123,22/05/2007 0:00,0,0,448,,,448,0,0
+Australia,SKU_123,22/05/2014 0:00,0,0,448,,,448,0,0
+Australia,SKU_123,22/05/2021 0:00,0,0,448,,,448,0,0
+Australia,SKU_123,22/05/2028 0:00,0,0,672,,,672,0,0
+Australia,SKU_123,22/06/2004 0:00,0,0,672,,,672,0,0
+Australia,SKU_123,22/06/2011 0:00,0,0,448,,,448,0,0
+Australia,SKU_123,22/06/2018 0:00,0,0,672,,,672,0,0
+Australia,SKU_123,22/06/2025 0:00,0,0,896,,,896,0,0

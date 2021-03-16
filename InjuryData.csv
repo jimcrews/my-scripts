@@ -1,0 +1,89 @@
+Site,Department,Injury #,Incident #,Injury details,Injured Person,Surname,Date Reporte,Injury date,Date reviewed,Injury type,Injured person type,Location on body,Mechanism,Nature,Injury time,First aid / treatment pro,Business related
+SITE_1,Factory,,,,,,17/10/2017,?,?,,,,,,,no,no
+SITE_1,Factory,,,,,,28/02/2019,?,?,,,,,,,no,no
+SITE_1,Factory,INJ0001580,,Sore head,John,Doe,2/08/2018,31/07/2018,28/08/2018,,Employees,"Head (other than eye, ear and face)",Machinery and fixed plant,"Loss of sight, hearing or other sense",200,no,yes
+SITE_1,Factory,INJ0001631,,bending down to pick up vitamin pkt,John,Doe,19/11/2018,19/11/2018,21/11/2018,Lost Time Injury,Employees,Back,Manual Tasks,Sprain or strain,845,no,yes
+SITE_1,Factory,,,,,,16/01/2019,?,?,,,,,,,no,no
+SITE_1,Downstairs,,,,,,24/01/2016,?,?,,,,,,,no,no
+SITE_1,Downstairs,INJ0001032,,Sharp pain in the lower back.,John,Doe,15/04/2016,13/04/2016,16/04/2016,,Employees,Back,Manual Tasks,Sprain or strain,500,no,yes
+SITE_1,Downstairs,INJ0001568,,twisted arm awkwardly and felt pain in left elbow,John,Doe,6/04/2016,24/03/2016,19/07/2018,,Employees,Elbow/lower arm/wrist,Non powered hand tools,Localised Pain,800,no,yes
+SITE_1,Kitchen,,,,,,1/07/2016,?,?,,,,,,,no,no
+SITE_1,Downstairs,,,,,,23/09/2016,?,?,,,,,,,no,no
+SITE_1,Downstairs,INJ0000914,,sprain right shoulder from off loading cases from conveyor,John,Doe,19/11/2015,17/11/2015,20/11/2015,Medically Treated Injury,Employees,Shoulder/upper arm,Manual Tasks,Sprain or strain,1000,no,yes
+SITE_1,Downstairs,INJ0001328,,Back strain,John,Doe,2/03/2017,27/02/2017,9/06/2017,Medically Treated Injury,Employees,Back,Manual Tasks,Sprain or strain,8:00,yes,yes
+SITE_1,Foyer,INJ0001270,,Burn on hand.,John,Doe,1/03/2017,1/03/2017,7/03/2017,First aid required,Employees,Hand and fingers,Other,Burns or scalds,1920,yes,no
+SITE_1,Downstairs,INJ0001316,,Right wrist is quite sore.,John,Doe,28/04/2017,28/04/2017,30/06/2017,Medically Treated Injury,Employees,Elbow/lower arm/wrist,Workplace environment,Sprain or strain,200,yes,yes
+SITE_1,Downstairs,INJ0000699,,Sore lower back.,John,Doe,27/02/2015,26/02/2015,28/02/2015,,Employees,Back,Workplace environment,Sprain or strain,700,no,yes
+SITE_1,Downstairs,INJ0000663,,Small bump at the back of my head.,John,Doe,12/01/2015,11/01/2015,9/06/2017,First aid required,Employees,"Head (other than eye, ear and face)",Machinery and fixed plant,Minor cuts/grazes,1630,yes,yes
+SITE_1,Downstairs,INJ0000741,,left hand injury,John,Doe,30/04/2015,30/04/2015,1/05/2015,First aid required,Employees,Hand and fingers,Manual Tasks,Sprain or strain,145,yes,yes
+SITE_1,Carpark,INJ0001545,,Due to possibly body sweat rash has appeared around arm pit area,John,Doe,19/06/2018,18/06/2018,9/07/2018,,Employees,Shoulder/upper arm,Other,Other,1500,no,no
+SITE_1,Carpark,INJ0001605,,minor cut on right hand,John,Doe,13/09/2018,11/09/2018,13/09/2018,First aid required,Employees,Hand and fingers,Manual Tasks,Minor cuts/grazes,1120,yes,yes
+SITE_1,Carpark,INJ0000862,,got blood clot under the finger nail.,John,Doe,16/09/2015,13/09/2015,22/09/2015,First aid required,Employees,Hand and fingers,Machinery and fixed plant,Bruising,2000,yes,yes
+SITE_1,Factory,INJ0000861,,sprain left hand,John,Doe,16/09/2015,14/09/2015,23/09/2015,First aid required,Employees,Elbow/lower arm/wrist,Manual Tasks,Sprain or strain,1430,yes,no
+SITE_1,Factory,,,,,,14/12/2015,?,?,,,,,,,no,no
+SITE_1,Factory,INJ0000844,,"sore left side hamstring, calf muscle aera",John,Doe,25/08/2015,24/08/2015,10/09/2015,Medically Treated Injury,Employees,Knee/lower leg,Fall/Slip/Trip on Same Level,Minor cuts/grazes,1200,no,no
+SITE_1,Factory,,,,,,6/11/2015,?,?,,,,,,,no,no
+SITE_1,Downstairs,INJ0000758,,Grazed forehead. Felt pain.,John,Doe,20/05/2015,18/05/2015,21/05/2015,First aid required,Employees,"Head (other than eye, ear and face)",Workplace environment,Minor cuts/grazes,300,no,yes
+SITE_1,Downstairs,INJ0001516,,back foot slipped and I banged my injured front,John,Doe,25/04/2018,23/04/2018,2/05/2018,,Employees,Ankles/feet/toes,Fall/Slip/Trip on Same Level,Bruising,1215,no,yes
+SITE_1,Kitchen,,,,,,25/04/2018,?,?,,,,,,,no,no
+SITE_1,Downstairs,,,,,,8/05/2018,?,?,,,,,,,no,no
+SITE_1,Downstairs,INJ0001531,,Numbness at my left shoulder and pain at lower back.,John,Doe,22/05/2018,21/05/2018,5/06/2018,Medically Treated Injury,Employees,Shoulder/upper arm,Manual Tasks,Sprain or strain,2230,no,yes
+SITE_1,Downstairs,INJ0001530,,Sore elbow on right hand.,John,Doe,22/05/2018,21/05/2018,11/06/2018,Medically Treated Injury,Employees,Elbow/lower arm/wrist,Manual Tasks,Sprain or strain,2300,no,no
+SITE_1,Downstairs,INJ0000847,,aggravated  right shoulder,John,Doe,26/08/2015,26/08/2015,21/12/2016,,Employees,Shoulder/upper arm,Fall/Slip/Trip on Same Level,Sprain or strain,800,no,yes
+SITE_1,Kitchen,INJ0000783,,injured right side of back pushing cases on  the cornflake magazine walky,John,Doe,29/05/2015,27/05/2015,1/07/2015,First aid required,Employees,Back,Manual Tasks,Sprain or strain,900,yes,no
+SITE_1,Downstairs,INJ0000800,,Right shoulder sore,John,Doe,18/06/2015,17/06/2015,19/06/2015,,Employees,Shoulder/upper arm,Manual Tasks,Sprain or strain,700,no,yes
+SITE_1,Downstairs,,,,,,30/04/2018,?,?,,,,,,,no,no
+SITE_1,Downstairs,INJ0001495,,Bleeding left foot.,Sally,Doe,21/03/2018,20/03/2018,23/03/2018,First aid required,Employees,Ankles/feet/toes,Other,Minor cuts/grazes,840,yes,yes
+SITE_1,Downstairs,,,,,,23/06/2015,?,?,,,,,,,no,no
+SITE_2,Carpark,,,,,,29/08/2018,?,?,,,,,,,no,no
+SITE_2,Carpark,,,,,,5/03/2021,?,?,,,,,,,no,no
+SITE_2,Carpark,,,,,,3/03/2021,?,?,,,,,,,no,no
+SITE_2,Factory,INJ0002127,INC0003186,sore wrist from packing,Sally,Doe,16/02/2021,16/02/2021,16/02/2021,First aid required,Employees,Elbow/lower arm/wrist,Manual Tasks,Sprain or strain,5:00,yes,yes
+SITE_2,Factory,INJ0002114,INC0003169,hurts everywhere,Sally,Doe,26/01/2021,21/01/2021,26/01/2021,First aid required,Employees,Hand and fingers,Machinery and fixed plant,Bruising,17:00,yes,yes
+SITE_2,Factory,,,,,,17/11/2020,?,?,,,,,,,no,no
+SITE_2,Downstairs,INJ0002055,INC0003065,bruised thumb,Sally,Doe,14/10/2020,12/10/2020,12/10/2020,No treatment required,Employees,Hand and fingers,Machinery and fixed plant,Bruising,3:00,no,yes
+SITE_2,Downstairs,INJ0002046,INC0003053,"setting up boxes of packets on bispak, pulled a muscle",Sally,Doe,21/09/2020,21/09/2020,21/09/2020,Medically Treated Injury,Employees,Hand and fingers,Manual Tasks,Sprain or strain,23:00,yes,yes
+SITE_2,Kitchen,INJ0001997,INC0002976,Burn arm,Sally,Doe,22/06/2020,19/06/2020,22/06/2020,First aid required,Employees,Elbow/lower arm/wrist,Machinery and fixed plant,Burns or scalds,13:00,yes,yes
+SITE_2,Downstairs,,,,,,26/05/2020,?,?,,,,,,,no,no
+SITE_2,Downstairs,INJ0001973,INC0002936,accidently touched the hot part of the jaw seal,Sally,Doe,25/05/2020,25/05/2020,25/05/2020,First aid required,Employees,Hand and fingers,Machinery and fixed plant,Burns or scalds,17:15,yes,yes
+SITE_2,Downstairs,,,,,,17/12/2019,?,?,,,,,,,no,no
+SITE_2,Kitchen,,,,,,17/12/2019,?,?,,,,,,,no,no
+SITE_2,Kitchen,,,,,,29/11/2019,?,?,,,,,,,no,no
+SITE_2,Downstairs,INJ0001856,INC0002745,swollen left hand,Sally,Doe,10/11/2019,10/11/2019,19/11/2019,First aid required,Employees,Hand and fingers,Machinery and fixed plant,Bruising,16:30,yes,yes
+SITE_2,Downstairs,,,,,,1/11/2019,?,?,,,,,,,no,no
+SITE_2,Downstairs,,,,,,23/09/2019,?,?,,,,,,,no,no
+SITE_2,Downstairs,,,,,,9/09/2019,?,?,,,,,,,no,no
+SITE_2,Carpark,,,,,,4/09/2019,?,?,,,,,,,no,no
+SITE_2,Carpark,,,,,,9/08/2019,?,?,,,,,,,no,no
+SITE_3,Carpark,INJ0001781,INC0002608,Right middle finger will not open.,Sally,Doe,25/06/2019,25/06/2019,25/06/2019,Medically Treated Injury,Employees,Hand and fingers,Manual Tasks,Other,3:00,yes,yes
+SITE_3,Factory,,,,,,12/06/2019,?,?,,,,,,,no,no
+SITE_3,Factory,,,,,,5/06/2019,?,?,,,,,,,no,no
+SITE_3,Factory,INJ0001764,INC0002579,had a bruise on my head but not too bad,Sally,Doe,5/06/2019,2/06/2019,5/06/2019,,Employees,"Head (other than eye, ear and face)",Fall from a height,Other,8:00,no,yes
+SITE_3,Factory,INJ0001729,INC0002527,Packing,Sally,Doe,10/04/2019,24/04/2018,10/04/2019,First aid required,Employees,Back,Manual Tasks,Sprain or strain,10:00,no,yes
+SITE_3,Factory,INJ0001527,,small cut and bruises to Left hand,Sally,Doe,15/05/2018,11/05/2018,15/05/2018,,Employees,Hand and fingers,Machinery and fixed plant,Minor cuts/grazes,1400,no,yes
+SITE_3,Kitchen,INJ0001492,,Pain on both big toes,Sally,Doe,14/03/2018,13/03/2018,16/03/2018,First aid required,Employees,Ankles/feet/toes,Manual Tasks,Other,2000,yes,no
+SITE_3,Kitchen,,,,,,12/03/2021,?,?,,,,,,,no,no
+SITE_3,Factory,,,,,,3/08/2017,?,?,,,,,,,no,no
+SITE_3,Factory,INJ0001095,,Sore Elbow from continuous heavy lifting.,Sally,Doe,27/06/2016,22/06/2016,28/09/2016,,Employees,Elbow/lower arm/wrist,Manual Tasks,Sprain or strain,530,no,no
+SITE_3,Foyer,,,,,,31/10/2018,?,?,,,,,,,no,no
+SITE_3,Factory,INJ0001071,,back sprain,Sally,Doe,18/05/2016,13/05/2016,19/05/2016,Lost Time Injury,Employees,Back,Manual Tasks,Sprain or strain,400,no,yes
+SITE_3,Factory,,,,,,1/02/2019,?,?,,,,,,,no,no
+SITE_3,Factory,,,,,,29/01/2019,?,?,,,,,,,no,no
+SITE_3,Factory,INJ0000707,,Sore feet,Sally,Doe,12/03/2015,12/03/2015,13/03/2015,,Employees,Ankles/feet/toes,Other,Localised Pain,500,no,yes
+SITE_3,Downstairs,INJ0000706,,sore arm,Sally,Doe,12/03/2015,4/03/2015,13/03/2015,Medically Treated Injury,Employees,Elbow/lower arm/wrist,Machinery and fixed plant,Sprain or strain,200,no,yes
+SITE_3,Downstairs,INJ0001491,,fall on left side and knee,Sally,Doe,13/03/2018,13/03/2018,16/03/2018,,Employees,Knee/lower leg,Fall/Slip/Trip on Same Level,Bruising,2120,no,no
+SITE_3,Kitchen,INJ0001432,,Finger cut from paper,Sally,Doe,28/11/2017,28/11/2017,28/11/2017,First aid required,Employees,Hand and fingers,Manual Tasks,Minor cuts/grazes,1500,yes,yes
+SITE_3,Kitchen,INJ0001296,,"right hand, middle finger crushed by Bispack 2 clamp, join seal bar.",Sally,Doe,24/03/2017,24/03/2017,24/03/2017,First aid required,Employees,Hand and fingers,Other,Bruising,430,yes,no
+SITE_3,Downstairs,INJ0000839,,Landed on my knees and dropped the packets on the floor. ,Sally,Doe,16/08/2015,12/08/2015,9/09/2015,,Employees,Knee/lower leg,Fall/Slip/Trip on Same Level,Minor cuts/grazes,2200,no,yes
+SITE_3,Downstairs,INJ0000838,,"miss calculated step, tripped over on a folded floor mat on the floor",Sally,Doe,16/08/2015,16/08/2015,1/08/2017,Medically Treated Injury,Employees,Multiple locations,Fall/Slip/Trip on Same Level,Bruising,1405,yes,no
+SITE_3,Downstairs,INJ0001537,,Cut finger,Sally,Doe,29/05/2018,29/05/2018,29/05/2018,First aid required,Employees,Hand and fingers,Non powered hand tools,Minor cuts/grazes,640,yes,yes
+SITE_3,Downstairs,INJ0001425,,left hand caught on line 1 conditioner arm while working on feeder 3,Sally,Doe,15/11/2017,15/11/2017,22/11/2017,Lost Time Injury,Employees,Hand and fingers,Machinery and fixed plant,Bruising,1600,yes,yes
+SITE_3,Downstairs,,,,,,20/09/2018,?,?,,,,,,,no,no
+SITE_3,Downstairs,INJ0001594,,Sore head,Sally,Doe,23/08/2018,22/08/2018,9/09/2018,,Employees,"Head (other than eye, ear and face)",Other,Other,330,no,yes
+SITE_3,Downstairs,INJ0001310,,Deep cut to finger.,Sally,Doe,10/04/2017,10/04/2017,30/06/2017,Lost Time Injury,Employees,Hand and fingers,Workplace environment,Laceration/open wound,830,yes,yes
+SITE_3,Kitchen,INJ0001211,,"lifting boxes of packets from pallets to trolley, felt sharp pain on left shoulder",Sally,Doe,11/12/2016,11/12/2016,4/12/2017,Medically Treated Injury,Employees,Shoulder/upper arm,Manual Tasks,Sprain or strain,1300,no,no
+SITE_3,Carpark,INJ0001055,,"sore heel walking / standing, packing area",Sally,Doe,4/05/2016,4/05/2016,16/06/2016,,Employees,Ankles/feet/toes,Exposure to mental stress factors,Localised Pain,1600,no,yes
+SITE_3,Carpark,,,,,,21/09/2017,?,?,,,,,,,no,no
+SITE_3,Carpark,,,,,,21/09/2017,?,?,,,,,,,no,no
+SITE_3,Foyer,,,,,,4/10/2016,?,?,,,,,,,no,no
+SITE_3,Foyer,,,,,,4/11/2016,?,?,,,,,,,no,no
