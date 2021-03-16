@@ -6,12 +6,3 @@
 | [Import using CSharp Script](https://github.com/jimcrews/my-scripts/blob/master/Pull_Todos.csx) | Integration script. Pull API data using dotnet scripting               |
 
 
-<br />
-
----
-
-<br />
-
-### new.py
-
-After you use new.py to create your new program, you should open it with your editor and modify the argument names and types to suit the needs of your program
